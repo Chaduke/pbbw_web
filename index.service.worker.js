@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1733251579|1379926425';
+const CACHE_VERSION = '1733258373|503396601';
 /** @type {string} */
 const CACHE_PREFIX = 'paddles_balls_bl-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;

@@ -9,5 +9,5 @@ REM to remove something do this :
 REM git rm -r --cached [to remove]
 
 git add .
-git commit -m "Testing fullscreen"
+git commit -m "Added version number to title screen"
 git push origin master
